@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jyny-develo.github.io/webmark/</id>
+    <title>I am a developer. This is my cheatsheet!</title>
+    <updated>2024-03-22T04:23:04.846Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jyny-develo.github.io/webmark/"/>
+    <link rel="self" href="https://jyny-develo.github.io/webmark/atom.xml"/>
+    <logo>https://jyny-develo.github.io/webmark/images/avatar.png</logo>
+    <icon>https://jyny-develo.github.io/webmark/favicon.ico</icon>
+    <rights>All rights reserved 2024, I am a developer. This is my cheatsheet!</rights>
+    <entry>
+        <title type="html"><![CDATA[關於我的信息(About me)]]></title>
+        <id>https://jyny-develo.github.io/webmark/post/about-me/</id>
+        <link href="https://jyny-develo.github.io/webmark/post/about-me/">
+        </link>
+        <updated>2024-03-21T13:19:48.000Z</updated>
+        <content type="html"><![CDATA[<p>I am an DevOps that work base on United States and Hong Kong China. A husband and dad of happy family.</p>
+]]></content>
+    </entry>
+</feed>
